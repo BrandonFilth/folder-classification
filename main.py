@@ -36,3 +36,4 @@ if __name__ == "__main__":
         if extension in [".c", ".exe"]:   
             os.rename(downloadsFolder + filename, programFolder + filename)
             print(name + ": " + extension)
+#change folder locations and you're ready to automate file placement:D
