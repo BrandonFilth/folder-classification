@@ -1,4 +1,3 @@
-from PIL import Image
 import os
 
 #change folder locations and you're ready to automate file placement:D
