@@ -1,7 +1,5 @@
 import os
 
-#change folder locations and you're ready to automate file placement:D
-
 downloadsFolder = "/Users/brand/Downloads/"
 picturesFolder = "/Users/brand/Downloads/Imag/"
 videosFolder = "/Users/brand/Downloads/Videos/"
