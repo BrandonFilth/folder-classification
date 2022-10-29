@@ -35,4 +35,5 @@ if __name__ == "__main__":
         if extension in [".c", ".exe"]:   
             os.rename(downloadsFolder + filename, programFolder + filename)
             print(name + ": " + extension)
-
+            
+print(":D")
